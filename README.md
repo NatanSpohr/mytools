@@ -1,10 +1,2 @@
 # mytools
-Texto traduzido
-Texto traduzido
-Texto traduzido
-Texto traduzido
-Texto traduzido
-Texto traduzido
-Texto traduzido
-Texto traduzido
-Texto traduzido
+mudancinha
